@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Aula78Redis.AtualizarRedis": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
